@@ -1,0 +1,27 @@
+.formulario{
+    width: 80%;
+    margin: 30px auto;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #666;
+    border-radius: 5px;
+    padding: 25px;
+}
+
+.clearfix{
+    clear: both;
+}
+
+h1{
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
+
+#tamaño {
+	width: 45%;
+	margin-top: -40%;
+	margin-left: -1%;
+	margin-bottom: -1%;
+}
+

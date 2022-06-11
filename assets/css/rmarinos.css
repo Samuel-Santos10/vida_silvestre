@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;    
+}
+
+h2{
+    margin-left: 5%;
+    margin-bottom: 1%;
+}
+
+#tamaño {
+	width: 40%;
+    height: 410px;
+	margin-top: -5%;
+	margin-left: 3%;
+	margin-bottom: 0%;
+}
+
+.texto{
+    margin-left: 40px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.header nav {
+    position: fixed;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+}
+
+.header nav a {
+    border: 3px solid #000;
+    border-radius: 50%;
+    display: block;
+    margin: 10px;
+    height: 30px;
+    width: 30px;
+}
+
+.header nav a:nth-child(1), .article #pagina-uno {
+    background-color: #e7b4d0;
+}
+
+.header nav a:nth-child(2), .article #pagina-dos {
+    background-color: #e7b4d0;
+}
+
+.header nav a:nth-child(3), .article #pagina-tres {
+    background-color: #e7b4d0;
+}
+
+.header nav a:nth-child(4), .article #pagina-cuatro {
+    background-color: #e7b4d0;
+}
+/*
+.header nav a:nth-child(1), .article #pagina-uno {
+    background-color: #f4eeb4;
+}
+
+.header nav a:nth-child(2), .article #pagina-dos {
+    background-color: #acf388;
+}
+
+.header nav a:nth-child(3), .article #pagina-tres {
+    background-color: #4f8f80;
+}
+
+.header nav a:nth-child(4), .article #pagina-cuatro {
+    background-color: #e7b4d0;
+}
+
+.header nav a:nth-child(5), .article #pagina-cinco {
+    background-color: #e9b0a3;
+}
+
+.header nav a:nth-child(6), .article #pagina-seis {
+    background-color: #9de9ba;
+}
+
+
+.header nav a:nth-child(7), .article #pagina-siete {
+    background-color: #f7d6d6;
+}
+
+.header nav a:nth-child(8), .article #pagina-ocho {
+    background-color: #98b949;
+}
+
+.header nav a:nth-child(9), .article #pagina-nueve {
+    background-color: #e05536;
+}
+
+.header nav a:nth-child(10), .article #pagina-diez {
+    background-color: #53cadf;
+} */
