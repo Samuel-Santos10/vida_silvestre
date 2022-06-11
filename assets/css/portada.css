@@ -1,0 +1,18 @@
+.torogos{
+    position: relative;
+    overflow: hidden;
+    border-radius: 15px;
+    box-shadow: 5px 8px 12px green;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+.torogos p{
+    font-size: 6rem;
+    color: white;
+    position: absolute;
+    left: 25px;
+    top: 200px;
+    transform: translate(0%, 0%);
+    text-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+}

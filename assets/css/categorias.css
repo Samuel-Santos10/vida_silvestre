@@ -3011,3 +3011,10 @@ input, select, textarea {
 			}
 
 	}
+
+#tamaño {
+	width: 40px;
+	margin-top: 1%;
+	margin-left: 2%;
+	margin-bottom: -1%;
+}

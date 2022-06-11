@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;    
+}
+
+h2{
+    margin-left: 5%;
+    margin-bottom: 1%;
+}
+
+#tamaño {
+	width: 40%;
+    height: 410px;
+	margin-top: -5%;
+	margin-left: 3%;
+	margin-bottom: 0%;
+}
+
+.texto{
+    margin-left: 40px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.header nav {
+    position: fixed;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+}
+
+.header nav a {
+    border: 3px solid #000;
+    border-radius: 50%;
+    display: block;
+    margin: 10px;
+    height: 30px;
+    width: 30px;
+}
+
+.header nav a:nth-child(1), .article #pagina-uno {
+    background-color: #50d5df;
+}
+
+.header nav a:nth-child(2), .article #pagina-dos {
+    background-color: #50d5df;
+}
