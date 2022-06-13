@@ -1,10 +1,14 @@
+
 .torogos{
     position: relative;
     overflow: hidden;
-    border-radius: 15px;
+    border-radius: 0px;
     box-shadow: 5px 8px 12px green;
     cursor: pointer;
     transition: all 0.3s ease-in-out;
+    width: 1347px;
+    height: 530px;
+    background-image: url("https://th.bing.com/th/id/R.d6b535bd52e027a83a983f942d3e7ab2?rik=RUgoky7B6tJqng&riu=http%3a%2f%2fespeciales.laprensagrafica.com%2f2010%2fcalendario-mitur2011%2fwp-content%2fuploads%2f2010%2f11%2fTOROGOZ-800x390.jpg&ehk=lR3QbFCnynMZf49YJx%2bcZ7v8c4Msv4Z9PhKgI7J2QAA%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1");
 }
 
 .torogos p{
